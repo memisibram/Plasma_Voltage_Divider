@@ -15,6 +15,7 @@ It was prepared using the Cross Platform and Open Source Electronics Design Auto
 
 ![Plasma Voltage Divider Image1](https://github.com/memisibram/Plasma_Voltage_Divider/blob/main/image1.png)
 ![Plasma Voltage Divider Image2](https://github.com/memisibram/Plasma_Voltage_Divider/blob/main/image2.png)
+![Plasma Voltage Divider Image3](https://github.com/memisibram/Plasma_Voltage_Divider/blob/main/Connection.jpg)
 
 ### License GNU GPL v3.0
 
