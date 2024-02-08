@@ -21,4 +21,4 @@ It was prepared using the Cross Platform and Open Source Electronics Design Auto
 
 ### Donation
 
-  -  Paypal: memisibram@gmail.com
+  -  Paypal: memisibram@gmail.com or https://www.paypal.me/memisibram
