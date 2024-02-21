@@ -1838,7 +1838,7 @@
     (in_bom yes) (on_board yes)
     (uuid 06ee30f1-5d18-40d9-866a-8ff53a99afdb)
     (property "Reference" "L1" (id 0) (at 83.566 96.266 90))
-    (property "Value" "9x12 - 30MH" (id 1) (at 83.566 98.806 90))
+    (property "Value" "9x12 - 30mH" (id 1) (at 83.566 98.806 90))
     (property "Footprint" "Inductor_THT:L_Radial_D9.5mm_P5.00mm_Fastron_07HVP" (id 2) (at 83.312 102.108 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1853,7 +1853,7 @@
     (in_bom yes) (on_board yes)
     (uuid 0b937146-a7ec-4e8d-88a4-4f9c9211f808)
     (property "Reference" "L2" (id 0) (at 83.312 120.142 90))
-    (property "Value" "9x12 - 30MH" (id 1) (at 83.566 118.11 90))
+    (property "Value" "9x12 - 30mH" (id 1) (at 83.566 118.11 90))
     (property "Footprint" "Inductor_THT:L_Radial_D9.5mm_P5.00mm_Fastron_07HVP" (id 2) (at 83.312 114.808 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2572,10 +2572,10 @@
       (reference "J3") (unit 1) (value "Plasma Negative Electrode") (footprint "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal")
     )
     (path "/06ee30f1-5d18-40d9-866a-8ff53a99afdb"
-      (reference "L1") (unit 1) (value "9x12 - 30MH") (footprint "Inductor_THT:L_Radial_D9.5mm_P5.00mm_Fastron_07HVP")
+      (reference "L1") (unit 1) (value "9x12 - 30mH") (footprint "Inductor_THT:L_Radial_D9.5mm_P5.00mm_Fastron_07HVP")
     )
     (path "/0b937146-a7ec-4e8d-88a4-4f9c9211f808"
-      (reference "L2") (unit 1) (value "9x12 - 30MH") (footprint "Inductor_THT:L_Radial_D9.5mm_P5.00mm_Fastron_07HVP")
+      (reference "L2") (unit 1) (value "9x12 - 30mH") (footprint "Inductor_THT:L_Radial_D9.5mm_P5.00mm_Fastron_07HVP")
     )
     (path "/96005b21-5413-4f05-b50c-80d0bb576133"
       (reference "R1") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0922_L20.0mm_D9.0mm_P25.40mm_Horizontal")
