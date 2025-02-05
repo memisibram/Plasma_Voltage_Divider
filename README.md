@@ -13,7 +13,7 @@ It was prepared using the Cross Platform and Open Source Electronics Design Auto
 
 ### Required components:
  - 2 x	5.1v - Zener Diode for D1,D2
- - 2 x	2.2 µF/25V - Electrolytic Capacitor for C6,C7
+ - 2 x	10µF/25V or 16v- Electrolytic Capacitor for C6,C7
  - 2 x	9x12 - 30mH Radial D9.5mm P5.00mm inductor for L1,L2
  - 4 x	1nF - Ceramic disc for C5,C2,C3,C4
  - 2 x	LM358 - op-amp for U1,U3
