@@ -28,6 +28,14 @@ It was prepared using the Cross Platform and Open Source Electronics Design Auto
  - 1 x	1x02_P5.00mm_Horizontal - Plasma Positive Work Terminal for J3
  - 1 x	1x04_P5.00mm_Horizontal - Power / Output Terminal for J2
 
+
+
+### Enclosure, Box
+If you have a 3D printer, here is a nice enclosure.
+Thanks to [lgitano](https://github.com/lgitano) for his contribution.
+[Enclosure for Plasma Voltage Divider](https://github.com/lgitano/Plasma-Voltage-Divider)
+
+
 ### Pictures
 
 ![Plasma Voltage Divider Image1](https://github.com/memisibram/Plasma_Voltage_Divider/blob/main/image1.png)
